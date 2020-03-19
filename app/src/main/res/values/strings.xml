@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="b1">reset</string>
+    <string name="b2">update</string>
+    <string name="b3">view bus details</string>
+    <string name="t1">from bus fair</string>
+    <string name="t2">To bus fair</string>
+    <string name="t3">Time</string>
+    <string name="t4">Amount</string>
+    <string name="t5">Bus Details</string>
+
+</resources>
